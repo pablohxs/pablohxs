@@ -8,6 +8,7 @@ Computer Science student currently learning programming and web development.
 - HTML
 - CSS
 - Programming fundamentals
+- Cyber security fundamentals
 
 ## Future Goals
 
