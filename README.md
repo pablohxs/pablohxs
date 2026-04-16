@@ -18,4 +18,4 @@ Computer Science student currently learning programming and web development.
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/pablo-henrique-69293a391/
+LinkedIn: https://zyo.se/feaar
