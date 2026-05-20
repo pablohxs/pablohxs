@@ -18,4 +18,3 @@ Computer Science student currently learning programming and web development.
 
 ## Contact
 
-LinkedIn: https://zyo.se/feaar
