@@ -42,7 +42,7 @@ while(alive) {
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohxs&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohxs&layout=compact&theme=tokyonight&hide_border=true&card_width=445"/>
 
   <br><br>
 
