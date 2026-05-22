@@ -40,11 +40,9 @@ while(alive) {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pablohxs&theme=tokyonight&hide_border=true"/>
 
-  <br><br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pablohxs&theme=tokyonight"/>
 
-  <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablohxs&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
 </p>
