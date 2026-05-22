@@ -37,14 +37,17 @@ while(alive) {
 
 ## stats
 
-<div align="center">
-
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablohxs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img src="https://streak-stats.demolab.com?user=pablohxs&theme=tokyonight&hide_border=true"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohxs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohxs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablohxs&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
 </p>
-</div>
 
 ---
 
