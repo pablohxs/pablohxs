@@ -1,20 +1,78 @@
-# Pablo Henrique
+<div align="center">
 
-Computer Science student currently learning programming and web development.
+```txt
+pablohxs
+```
 
-## Currently Learning
+computer science student
 
-- C programming
-- HTML
-- CSS
-- Programming fundamentals
-- Cyber security fundamentals
+</div>
 
-## Future Goals
+---
 
-- Backend and FrontEnd development
-- Web security
-- Systems programming
+<div align="center">
 
-## Contact
+```c
+while(alive) {
+    learn();
+    build();
+    repeat();
+}
+```
 
+</div>
+
+---
+
+## stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablohxs&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohxs&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+## currently
+
+```txt
+learning backend development
+interested in cybersecurity
+probably playing resident evil
+```
+
+---
+
+## links
+
+<p align="left">
+  <a href="https://zyo.se/feaar">
+    <img src="https://img.shields.io/badge/contact-111111?style=for-the-badge&logo=ghost&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/pablohxs">
+    <img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://open.spotify.com/user/31z5fgpofxprroweorcz63losv2a">
+    <img src="https://img.shields.io/badge/spotify-111111?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+
+  <a href="https://steamcommunity.com/profiles/76561199174902154/">
+    <img src="https://img.shields.io/badge/steam-111111?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
